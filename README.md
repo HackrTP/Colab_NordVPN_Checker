@@ -2,14 +2,21 @@
 You can now check NordVPN Accounts using your web browser on this website!
 
 Website
-https://colab.research.google.com/drive/1EoKZG3zyJ_djz29B_AoNVFrDhOyYEk2h?usp=sharing
+https://colab.research.google.com/
 
 Setup
 
 1. Download NordVPN_Checker.ipynb from above
 2. Go to https://colab.research.google.com
-3. A menu should pop up, select upload
+3. A menu should pop up, then select upload, if not check below how to upload it
 4. Select NordVPN_Checker.ipynb
+
+If menu didn't pop up for step 3, do the following
+
+1. Click the dropdown arrow in the top right below your google account icon
+2. Click file
+3. Select Upload Notebook
+4. Click "Choose File" and select the NordVPN_Checker.ipynb file that you downloaded from step 1
 
 Steps to using it
 
