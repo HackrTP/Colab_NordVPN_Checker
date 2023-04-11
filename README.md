@@ -4,6 +4,13 @@ You can now check NordVPN Accounts using your web browser on this website!
 Website
 https://colab.research.google.com/drive/1EoKZG3zyJ_djz29B_AoNVFrDhOyYEk2h?usp=sharing
 
+Setup
+
+1. Download NordVPN_Checker.ipynb from above
+2. Go to https://colab.research.google.com
+3. A menu should pop up, select upload
+4. Select NordVPN_Checker.ipynb
+
 Steps to using it
 
 1. Open the folder icon on the left
